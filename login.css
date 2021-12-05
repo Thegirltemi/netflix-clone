@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+
+#sitelogo{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.main1{
+    background: rgba(0, 0, 0, 0.753);
+    width: 40%;
+    margin:0 auto;
+    padding: 2rem;
+    display: flex;
+    flex-direction:column; 
+}
+.signin{
+    color: white;
+    margin-bottom: 1rem;
+    
+}
+.input_field{
+    padding: 1rem;
+    
+    border-radius: 4px;
+    border: none;
+    background: rgb(94, 93, 93);
+    margin-bottom: 10px;
+    color: #eee;
+
+}
+.btn{
+  background: red;
+  color: white;
+  border-radius: 4px;
+  font-weight: 600;
+  padding: 1rem;
+  text-align: center;
+  border: none;
+  font-size: 20px;
+
+
+}
+.check_remember{
+    display: flex;
+    margin-top: 8px;
+    justify-content: space-between;
+    color: grey;
+
+}
+.check_text{
+    display: flex;
+
+}
+.input_field::placeholder{
+    color: rgba(173, 169, 169, 0.904);
+}
+.login_fb{
+    padding-top: 30px;
+    color: grey;
+}.last-line{
+    color: grey;    
+}
+.learn_more{
+    color: blue;
+}
+.signup-now{
+    color: grey;
+}
+.signup-link{
+    color: white;
+}
+
+
