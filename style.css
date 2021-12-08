@@ -188,6 +188,101 @@ body{
     line-height: 50px;
     
 }
+@media screen and (max-width:450px ) {
+    #top-net{ 
+        font-size: 16px;
+        padding: 16px;
+    }
+    .para-graph{
+        padding: 1rem;
+        margin-left: 2rem;
+        width: 100%;
+    }
+    .container1{
+        width: 100vw;
+    }
+    #scene1{
+        font-size: 2rem;
+        padding: 1px;
+    }
+    #scene2{
+        font-size: 12px;
+        line-height: 1.6em;
+    }
+    #scene3{
+        line-height: 1.5em;
+        font-size: 0.65rem; 
+    }
+    #getstarted_btn{
+        width: 50%;
+    }
+    .container2{
+        padding: 1rem;
+    }
+    #scene4{
+        font-size: 2rem;
+        margin-top: 2.5rem;
+    }
+    #scene5{
+        font-size: 0.9rem;
+        margin-top: 1rem;
+    }
+    .container3{
+        padding: 1.5rem;
+    }
+    .sub-head1{
+        width:100%;
+    }
+    #scene6{
+        font-size: 1.3rem;
+    }
+    #scene7{
+        font-size: 0.7rem;
+    }
+    .container4{
+        padding: 1rem;
+    }
+    #scene8{
+        font-size: 2.5rem;
+    }
+    .container5{
+        padding: 3rem;
+    }
+    #scene9{
+        font-size: 2rem;
+    }
+    #scene10{
+        font-size: 15px;
+    }
+    #scene11{
+        font-size: 25px;
+    }
+    .inners1{
+      padding: 1rem;
+    }
+    #btn_field{
+        padding: 5px;
+        font-size: 1rem;
+        margin: 0.3rem;
+    }
+    #scene12{
+        padding-top: 1rem;
+        padding-bottom: 0.1rem;
+    }
+    #btn7{
+       margin-bottom: 2rem;
+    }
+    .container7{
+        padding: 5rem;
+    }
+    .cols{
+        line-height: 30px;
+    }
+
+    
+    
+} 
+
 
     
 
